@@ -28,7 +28,7 @@ When forced indoors, I follow a number of sci-fi and fantasy genre movies and te
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
 - 😄 Pronouns: Champ
-- ⚡ Fun fact: One of my life hack is confidence
+- ⚡ Big fan of Marvel and Harry Potter films 
 #
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitshakya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
