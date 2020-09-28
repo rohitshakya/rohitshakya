@@ -17,11 +17,13 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Niteshrocks.Niteshrocks)
 
-I'm a final year Post Grad student pursuing MSc. Computer Science 🎓 from Department of Computer Science, University of Delhi 🏛. I am a passionate software developer :star2: and love to explore :eyes: the latest technologies. Always eager to participate in competitions :trophy: especially of Machine learning :fire:. I always try to share my knowledge with others :blush: :open_hands: .
+Hello world, I'm currently an MSc student at Department of Computer Science, University of Delhi. I'm passionate about web and software development.
 <br />
 
 ### Talking about Personal Stuffs:
+Apart from being a Software Developer, I enjoy most of my time being outdoors and playing Professional Chess. In the winter, I love to wear fashionable outfits. During the warmer months here in New Delhi, I enjoy several kinds of beverages, regional foods and explore a lot of people and even I want to travel through different Cultures.
 
+When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows. I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the back-end web development world.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
