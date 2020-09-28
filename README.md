@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **rohitshakya/rohitshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 ## Hello!! <img src="https://raw.githubusercontent.com/Niteshrocks/Niteshrocks/master/gifs/HI.gif" width="30px"></h2>
 
