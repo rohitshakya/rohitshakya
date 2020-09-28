@@ -1,4 +1,4 @@
-## Hello World!! <img src="https://raw.githubusercontent.com/Niteshrocks/Niteshrocks/master/gifs/HI.gif" width="30px"></h2>
+## Hello World!! <img src="https://raw.githubusercontent.com/rohitshakya/rohitshakya/master/gifs/HI.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/rohitrkshakya/">
   <img align="left" alt="rohitrkshakya-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
