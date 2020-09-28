@@ -15,7 +15,7 @@
 
 <br />
 
-### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Niteshrocks.Niteshrocks)
+### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rohitshakya.rohitshakya)
 
 I'm currently an MSc student at Department of Computer Science, University of Delhi. I'm passionate about web and software development.
 <br />
