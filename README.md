@@ -25,8 +25,6 @@ Apart from being a Software Developer, I enjoy most of my time being outdoors an
 
 When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows. I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the back-end web development world.
 - 🔭 I’m currently working on Digital Image Processing 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
 - 😄 Pronouns: Champ
