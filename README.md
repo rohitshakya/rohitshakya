@@ -24,7 +24,8 @@ I'm currently an MSc student at Department of Computer Science, University of De
 Apart from being a Software Developer, I enjoy most of my time being outdoors and playing Professional Chess. In the winter, I love to wear fashionable outfits. During the warmer months here in New Delhi, I enjoy several kinds of beverages, regional foods and explore a lot of people and even I want to travel through different Cultures.
 
 When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows. I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the back-end web development world.
-- 🔭 I’m currently working on Digital Image Processing 
+- 🔭 I’m currently working on Digital Image Processing
+- 🔭 Must watch repository: codebucket and web projects
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
 - 😄 Pronouns: Champ
