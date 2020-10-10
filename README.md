@@ -21,7 +21,7 @@ I'm currently an MSc student at Department of Computer Science, University of De
 <br />
 
 - 🔭 I’m currently working on Digital Image Processing, flutter and an E-commerce website
-- 🔭 Must watch repository: codebucket, web projects and EcartBooks
+- 🔭 Must watch repositories: codebucket, web projects and EcartBooks
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
 - 😄 Pronouns: Champ  
