@@ -17,10 +17,11 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rohitshakya.rohitshakya)
 
-I'm currently an MSc student at Department of Computer Science, University of Delhi. I'm passionate about web and software development.
+I'm currently an MSc student at the Department of Computer Science, University of Delhi, and a Software Development Intern at [VivaBooks](https://vivadigital.in/).
 <br />
 
-- 🔭 I’m currently working on Digital Image Processing, flutter and an E-commerce website
+- 🔭 I’m currently working on Selenium and Automation Testing.
+- 🔭 Recently worked on Digital Image Processing, flutter and an E-commerce website
 - 🔭 Must watch repositories: codebucket, web projects and EcartBooks
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
