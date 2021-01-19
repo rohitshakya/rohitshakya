@@ -21,7 +21,7 @@ I'm currently an MSc student at the Department of Computer Science, University o
 <br />
 
 - 🔭 I’m currently working on Selenium and Automation Testing.
-- 🔭 Recently worked on Digital Image Processing, flutter and an E-commerce website
+- 🔭 Recently worked on Digital Image Processing, Flutter and an E-commerce website
 - 🔭 Must watch repositories: codebucket, web projects and EcartBooks
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
