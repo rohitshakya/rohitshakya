@@ -22,7 +22,7 @@ I'm currently an MSc student at the Department of Computer Science, University o
 
 - 🔭 I’m currently working on [Viva Volt](https://vivavolt.in/), Cesium JS, Selenium and Automation Testing.
 - 🔭 Recently worked on Digital Image Processing and Multilevel Image Thresholding.
-- 🔭 Must watch repositories: [codebucket](https://github.com/rohitshakya/codebucket), [web projects](https://github.com/rohitshakya/codebucket), [EcartBooks](https://github.com/rohitshakya/codebucket), [Selenium and automation testing](https://github.com/rohitshakya/codebucket), and [Cesium JS](https://github.com/rohitshakya/codebucket).
+- 🔭 Must watch repositories: [codebucket](https://github.com/rohitshakya/codebucket), [web projects](https://github.com/rohitshakya/codebucket), [EcartBooks](https://github.com/rohitshakya/EcartBooks), [Selenium and automation testing](https://github.com/rohitshakya/Selenium-and-automation-testing), and [Cesium JS](https://github.com/rohitshakya/Cesium-JS).
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
 - 😄 Pronouns: Champ  
