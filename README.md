@@ -20,7 +20,7 @@
 I'm currently an MSc student at the Department of Computer Science, University of Delhi, and a Software Development Intern at [VivaBooks](https://vivadigital.in/).
 <br />
 
-- 🔭 I’m currently working on [Viva Volt](https://vivavolt.in/), Selenium, Automation Testing and Cesium JS.
+- 🔭 I’m currently working on [Viva Volt](https://vivavolt.in/), Cesium JS, Selenium and Automation Testing.
 - 🔭 Recently worked on Digital Image Processing and Multilevel Image Thresholding.
 - 🔭 Must watch repositories: codebucket, web projects and EcartBooks
 - 💬 Ask me about web development, data structures, algorithm and chess.
