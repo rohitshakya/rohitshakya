@@ -20,7 +20,7 @@
 I have pursued an MSc from the Department of Computer Science, University of Delhi, and I'm currently working as a Software Developer at [Viva Online Learning Technologies](https://vivadigital.in/).
 <br />
 
-- 🔭 I’m currently working on [Viva Volt](https://vivavolt.in/), Cesium JS, Selenium and Automation Testing.
+- 🔭 I’m currently working on [Viva Volt](https://vivavolt.in/) and [Viva Digital](https://vivadigital.in/), Cesium JS, Selenium and Automation Testing.
 - 🔭 Recently worked on Digital Image Processing and Multilevel Image Thresholding.
 - 🔭 Must watch repositories: [codebucket](https://github.com/rohitshakya/codebucket), [web projects](https://github.com/rohitshakya/web-projects), [Selenium and automation testing](https://github.com/rohitshakya/Selenium-and-automation-testing), and [Cesium JS](https://github.com/rohitshakya/Cesium-JS).
 - 💬 Ask me about web development, data structures, algorithm and chess.
