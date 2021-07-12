@@ -17,7 +17,7 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rohitshakya.rohitshakya)
 
-I have pursued an MSc from the Department of Computer Science, University of Delhi, and I'm currently working as a Software Developer at Viva Online Learning Technologies[VivaBooks](https://vivadigital.in/).
+I have pursued an MSc from the Department of Computer Science, University of Delhi, and I'm currently working as a Software Developer at [Viva Online Learning Technologies](https://vivadigital.in/).
 <br />
 
 - 🔭 I’m currently working on [Viva Volt](https://vivavolt.in/), Cesium JS, Selenium and Automation Testing.
