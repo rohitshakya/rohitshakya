@@ -25,7 +25,8 @@ I have pursued an MSc from the Department of Computer Science, University of Del
 - 🔭 Must watch repositories: [codebucket](https://github.com/rohitshakya/codebucket), [web projects](https://github.com/rohitshakya/web-projects), [Selenium and automation testing](https://github.com/rohitshakya/Selenium-and-automation-testing), and [Cesium JS](https://github.com/rohitshakya/Cesium-JS).
 - 💬 Ask me about web development, data structures, algorithm and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
-- 😄 Pronouns: Champ  
+- 😄 Pronouns: Champ
+- 📄 [Resume](https://rohitshakya.github.io/uploads/Rohit_Shakya_Resume.pdf)
 
 ### Talking about Personal Stuffs:
 Apart from being a Software Developer, I enjoy most of my time being outdoors and playing Professional Chess. In the winter, I love to wear fashionable outfits. During the warmer months here in New Delhi, I enjoy several kinds of beverages, regional foods and explore a lot of people and even I want to travel through different Cultures.
