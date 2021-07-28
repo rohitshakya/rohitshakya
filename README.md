@@ -23,7 +23,7 @@ I have pursued an MSc from the Department of Computer Science, University of Del
 - 🔭 I’m currently working on [Viva Volt](https://vivavolt.in/), [Viva Digital](https://vivadigital.in/), Cesium JS, Selenium and Automation Testing.
 - 🔭 Recently worked on Digital Image Processing and Multilevel Image Thresholding.
 - 🔭 Must watch repositories: [codebucket](https://github.com/rohitshakya/codebucket), [web projects](https://github.com/rohitshakya/web-projects), [Selenium and automation testing](https://github.com/rohitshakya/Selenium-and-automation-testing), and [Cesium JS](https://github.com/rohitshakya/Cesium-JS).
-- 💬 Ask me about web development, data structures, algorithm and chess.
+- 💬 Ask me about Web Development, Data Structures, Algorithms and chess.
 - 📫 How to reach me: rohit.rkshakya@gmail.com
 - 📄 Checkout the [Resume](https://rohitshakya.github.io/uploads/Rohit_Shakya_Resume.pdf)
 - 😄 Pronouns: Champ
