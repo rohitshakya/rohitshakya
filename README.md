@@ -17,7 +17,7 @@
 
 ### Glad to see you here! 🤩 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rohitshakya.rohitshakya)
 
-I have pursued an MSc from the Department of Computer Science, University of Delhi, and I'm currently working as a Software Engineer at [Qxpress Pte Ltd](https://www.qxpress.net/) and previously worked as a Software Developer at [Viva Online Learning Technologies](https://vivadigital.in/).
+I have pursued an MSc from the Department of Computer Science, University of Delhi, and I'm currently working as a Software Engineer at [ShopClues](https://bazaar.shopclues.com/) and previously worked as a Software Developer at [Viva Online Learning Technologies](https://vivadigital.in/).
 <br />
 
 
