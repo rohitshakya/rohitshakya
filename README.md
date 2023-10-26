@@ -20,8 +20,8 @@
 I have pursued an MSc from the Department of Computer Science, University of Delhi, and I'm currently working as an SDE 2 at [Healthians](https://www.healthians.com/), and previously worked as a Software Developer at [ShopClues](https://bazaar.shopclues.com/) and [Viva Online Learning Technologies](https://vivadigital.in/).
 <br />
 
-
-- 🔭 I’m currently working on [Smartship by Qxpress](https://smartship.in/).
+- 🔭 I’m currently working on Phlebo App and ERP by Healthians.
+- 🔭 Earlier worked on [Smartship by Qxpress](https://smartship.in/).
 - 🔭 I’ve recently worked on [Viva Volt](https://vivavolt.in/), [Viva Digital](https://vivadigital.in/), Cesium JS, Selenium, Automation Testing and Digital Image Processing and Multilevel Image Thresholding.
 - 🔭 Must watch repositories: [codebucket](https://github.com/rohitshakya/codebucket), [web projects](https://github.com/rohitshakya/web-projects), [Selenium and automation testing](https://github.com/rohitshakya/Selenium-and-automation-testing), and [Cesium JS](https://github.com/rohitshakya/Cesium-JS).
 - 💬 Ask me about Web Development, Data Structures, Algorithms and Chess.
